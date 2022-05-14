@@ -1,0 +1,1292 @@
+[
+ {
+  "name": "SBI Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 58511.23,
+  "cagr": 4.26,
+  "expense_ratio": 0.18,
+  "sebi_risk": "Moderate",
+  "id": 119800
+ },
+ {
+  "name": "SBI Equity Hybrid Fund",
+  "sub_category": "Aggressive Hybrid Fund",
+  "plan": "Growth",
+  "aum": 50932.81,
+  "cagr": 14.25,
+  "expense_ratio": 0.84,
+  "sebi_risk": "Very High",
+  "id": 119609
+ },
+ {
+  "name": "HDFC Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 46613.9,
+  "cagr": 4.24,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderately Low",
+  "id": 100868
+ },
+ {
+  "name": "HDFC Balanced Advantage Fund",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "Growth",
+  "aum": 43950.49,
+  "cagr": 13.9,
+  "expense_ratio": 0.97,
+  "sebi_risk": "Very High",
+  "id": 100119
+ },
+ {
+  "name": "ICICI Pru Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 39901.99,
+  "cagr": 4.33,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 103340
+ },
+ {
+  "name": "ICICI Pru Balanced Advantage Fund",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "Growth",
+  "aum": 39478.67,
+  "cagr": 12.09,
+  "expense_ratio": 1,
+  "sebi_risk": "High",
+  "id": 104685
+ },
+ {
+  "name": "Kotak Flexicap Fund",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "Growth",
+  "aum": 36463.37,
+  "cagr": 12.79,
+  "expense_ratio": 0.64,
+  "sebi_risk": "Very High",
+  "id": 112090
+ },
+ {
+  "name": "Axis Bluechip Fund",
+  "sub_category": "Large Cap Fund",
+  "plan": "Growth",
+  "aum": 35702.21,
+  "cagr": 14.35,
+  "expense_ratio": 0.47,
+  "sebi_risk": "Very High",
+  "id": 112277
+ },
+ {
+  "name": "Aditya Birla SL Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 34891.15,
+  "cagr": 4.37,
+  "expense_ratio": 0.21,
+  "sebi_risk": "Moderate",
+  "id": 100047
+ },
+ {
+  "name": "SBI BlueChip Fund",
+  "sub_category": "Large Cap Fund",
+  "plan": "Growth",
+  "aum": 31933.78,
+  "cagr": 14.58,
+  "expense_ratio": 0.94,
+  "sebi_risk": "Very High",
+  "id": 103504
+ },
+ {
+  "name": "Mirae Asset Large Cap Fund",
+  "sub_category": "Large Cap Fund",
+  "plan": "Growth",
+  "aum": 31929.34,
+  "cagr": 14.27,
+  "expense_ratio": 0.6,
+  "sebi_risk": "Very High",
+  "id": 107578
+ },
+ {
+  "name": "HDFC Mid-Cap Opportunities Fund",
+  "sub_category": "Mid Cap Fund",
+  "plan": "Growth",
+  "aum": 31837.02,
+  "cagr": 17.34,
+  "expense_ratio": 1,
+  "sebi_risk": "Very High",
+  "id": 105758
+ },
+ {
+  "name": "Axis Long Term Equity Fund",
+  "sub_category": "Equity Linked Savings Scheme (ELSS)",
+  "plan": "Growth",
+  "aum": 31655.93,
+  "cagr": 13.07,
+  "expense_ratio": 0.77,
+  "sebi_risk": "Very High",
+  "id": 112323
+ },
+ {
+  "name": "ICICI Pru Bluechip Fund",
+  "sub_category": "Large Cap Fund",
+  "plan": "Growth",
+  "aum": 31235.13,
+  "cagr": 14.86,
+  "expense_ratio": 1.08,
+  "sebi_risk": "Very High",
+  "id": 108466
+ },
+ {
+  "name": "Axis Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 28933.73,
+  "cagr": 4.32,
+  "expense_ratio": 0.16,
+  "sebi_risk": "Moderately Low",
+  "id": 112210
+ },
+ {
+  "name": "UTI Liquid Cash Plan",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 27778.69,
+  "cagr": 4.3,
+  "expense_ratio": 0.14,
+  "sebi_risk": "Moderately Low",
+  "id": 102012
+ },
+ {
+  "name": "HDFC Flexi Cap Fund",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "Growth",
+  "aum": 27770.41,
+  "cagr": 15.11,
+  "expense_ratio": 0.96,
+  "sebi_risk": "Very High",
+  "id": 101762
+ },
+ {
+  "name": "Nippon India Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 25763.13,
+  "cagr": 4.36,
+  "expense_ratio": 0.18,
+  "sebi_risk": "Moderately Low",
+  "id": 100837
+ },
+ {
+  "name": "UTI Flexi Cap Fund",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "Growth",
+  "aum": 24898.96,
+  "cagr": 17.83,
+  "expense_ratio": 0.93,
+  "sebi_risk": "Very High",
+  "id": 120662
+ },
+ {
+  "name": "SBI Focused Equity Fund",
+  "sub_category": "Focused Fund",
+  "plan": "Growth",
+  "aum": 24706.56,
+  "cagr": 16.85,
+  "expense_ratio": 0.67,
+  "sebi_risk": "Very High",
+  "id": 119727
+ },
+ {
+  "name": "SBI Balanced Advantage Fund",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "Growth",
+  "aum": 24019.66,
+  "cagr": "-",
+  "expense_ratio": 0.48,
+  "sebi_risk": "Moderately High",
+  "id": 149134
+ },
+ {
+  "name": "Kotak Equity Arbitrage Fund",
+  "sub_category": "Arbitrage Fund",
+  "plan": "Growth",
+  "aum": 23825.89,
+  "cagr": 5.07,
+  "expense_ratio": 0.41,
+  "sebi_risk": "Low",
+  "id": 105968
+ },
+ {
+  "name": "HDFC Corp Bond Fund",
+  "sub_category": "Corporate Bond Fund",
+  "plan": "Growth",
+  "aum": 23609.85,
+  "cagr": 7.61,
+  "expense_ratio": 0.3,
+  "sebi_risk": "Moderate",
+  "id": 113070
+ },
+ {
+  "name": "ICICI Pru Value Discovery Fund",
+  "sub_category": "Value Fund",
+  "plan": "Growth",
+  "aum": 23526.82,
+  "cagr": 20.58,
+  "expense_ratio": 1.21,
+  "sebi_risk": "Very High",
+  "id": 120323
+ },
+ {
+  "name": "ICICI Pru Savings Fund",
+  "sub_category": "Low Duration Fund",
+  "plan": "Growth",
+  "aum": 23329.67,
+  "cagr": 6.42,
+  "expense_ratio": 0.4,
+  "sebi_risk": "Moderate",
+  "id": 101797
+ },
+ {
+  "name": "SBI Savings Fund",
+  "sub_category": "Money Market Fund",
+  "plan": "Growth",
+  "aum": 22869.33,
+  "cagr": 5.5600000000000005,
+  "expense_ratio": 0.23,
+  "sebi_risk": "Moderate",
+  "id": 134643
+ },
+ {
+  "name": "Mirae Asset Emerging Bluechip",
+  "sub_category": "Large & Mid Cap Fund",
+  "plan": "Growth",
+  "aum": 21910.25,
+  "cagr": 21.23,
+  "expense_ratio": 0.76,
+  "sebi_risk": "Very High",
+  "id": 118834
+ },
+ {
+  "name": "Parag Parikh Flexi Cap Fund",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "Growth",
+  "aum": 21906.96,
+  "cagr": 23.72,
+  "expense_ratio": 0.79,
+  "sebi_risk": "Very High",
+  "id": 122639
+ },
+ {
+  "name": "Aditya Birla SL Frontline Equity Fund",
+  "sub_category": "Large Cap Fund",
+  "plan": "Growth",
+  "aum": 21671.93,
+  "cagr": 13.67,
+  "expense_ratio": 1.07,
+  "sebi_risk": "Very High",
+  "id": 103174
+ },
+ {
+  "name": "HDFC Top 100 Fund",
+  "sub_category": "Large Cap Fund",
+  "plan": "Growth",
+  "aum": 21177.55,
+  "cagr": 11.35,
+  "expense_ratio": 1.19,
+  "sebi_risk": "Very High",
+  "id": 102000
+ },
+ {
+  "name": "SBI Overnight Fund",
+  "sub_category": "Overnight Fund",
+  "plan": "Growth",
+  "aum": 20493.67,
+  "cagr": 3.74,
+  "expense_ratio": 0.1,
+  "sebi_risk": "Low",
+  "id": 119833
+ },
+ {
+  "name": "Nippon India Small Cap Fund",
+  "sub_category": "Small Cap Fund",
+  "plan": "Growth",
+  "aum": 19768.28,
+  "cagr": 27.3,
+  "expense_ratio": 0.28,
+  "sebi_risk": "Very High",
+  "id": 113177
+ },
+ {
+  "name": "Axis Focused 25 Fund",
+  "sub_category": "Focused Fund",
+  "plan": "Growth",
+  "aum": 19559.61,
+  "cagr": 14.08,
+  "expense_ratio": 0.6,
+  "sebi_risk": "Very High",
+  "id": 117560
+ },
+ {
+  "name": "ICICI Pru Equity & Debt Fund",
+  "sub_category": "Aggressive Hybrid Fund",
+  "plan": "Growth",
+  "aum": 19273.66,
+  "cagr": 19.14,
+  "expense_ratio": 1.26,
+  "sebi_risk": "Very High",
+  "id": 100356
+ },
+ {
+  "name": "HDFC Floating Rate Debt Fund",
+  "sub_category": "Floating Rate Fund",
+  "plan": "Growth",
+  "aum": 18660.8,
+  "cagr": 6.74,
+  "expense_ratio": 0.23,
+  "sebi_risk": "Moderate",
+  "id": 106841
+ },
+ {
+  "name": "Kotak Emerging Equity Fund",
+  "sub_category": "Mid Cap Fund",
+  "plan": "Growth",
+  "aum": 18634.65,
+  "cagr": 23.74,
+  "expense_ratio": 0.47,
+  "sebi_risk": "Very High",
+  "id": 104908
+ },
+ {
+  "name": "HDFC Hybrid Equity Fund",
+  "sub_category": "Aggressive Hybrid Fund",
+  "plan": "Growth",
+  "aum": 18441.64,
+  "cagr": 13.48,
+  "expense_ratio": 1.12,
+  "sebi_risk": "Very High",
+  "id": 102948
+ },
+ {
+  "name": "HDFC Low Duration Fund",
+  "sub_category": "Low Duration Fund",
+  "plan": "Growth",
+  "aum": 17920.36,
+  "cagr": 6.55,
+  "expense_ratio": 0.39,
+  "sebi_risk": "Moderate",
+  "id": 118942
+ },
+ {
+  "name": "IDFC Corp Bond Fund",
+  "sub_category": "Corporate Bond Fund",
+  "plan": "Growth",
+  "aum": 17740.28,
+  "cagr": 6.92,
+  "expense_ratio": 0.28,
+  "sebi_risk": "Moderately Low",
+  "id": 135916
+ },
+ {
+  "name": "Franklin India Flexi Cap Fund",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "Growth",
+  "aum": 10113.58,
+  "cagr": 16.05,
+  "expense_ratio": 1.15,
+  "sebi_risk": "Very High",
+  "id": 100520
+ },
+ {
+  "name": "Axis Short Term Fund",
+  "sub_category": "Short Duration Fund",
+  "plan": "Growth",
+  "aum": 10085.99,
+  "cagr": 7.51,
+  "expense_ratio": 0.29,
+  "sebi_risk": "Moderate",
+  "id": 144759
+ },
+ {
+  "name": "Tata Money Market Fund",
+  "sub_category": "Money Market Fund",
+  "plan": "Growth",
+  "aum": 9969.44,
+  "cagr": 5.64,
+  "expense_ratio": 0.25,
+  "sebi_risk": "Moderate",
+  "id": 102153
+ },
+ {
+  "name": "SBI Magnum Medium Duration Fund",
+  "sub_category": "Medium Duration Fund",
+  "plan": "Growth",
+  "aum": 9967.97,
+  "cagr": 8.37,
+  "expense_ratio": 0.69,
+  "sebi_risk": "Moderately High",
+  "id": 102053
+ },
+ {
+  "name": "DSP Tax Saver Fund",
+  "sub_category": "Equity Linked Savings Scheme (ELSS)",
+  "plan": "Growth",
+  "aum": 9872.41,
+  "cagr": 18.29,
+  "expense_ratio": 0.8,
+  "sebi_risk": "Very High",
+  "id": 104772
+ },
+ {
+  "name": "Tata Arbitrage Fund",
+  "sub_category": "Arbitrage Fund",
+  "plan": "Growth",
+  "aum": 9857.08,
+  "cagr": 5.38,
+  "expense_ratio": 0.31,
+  "sebi_risk": "Low",
+  "id": 145723
+ },
+ {
+  "name": "ICICI Pru LT Equity Fund (Tax Saving)",
+  "sub_category": "Equity Linked Savings Scheme (ELSS)",
+  "plan": "Growth",
+  "aum": 9751.65,
+  "cagr": 14.3,
+  "expense_ratio": 1.07,
+  "sebi_risk": "Very High",
+  "id": 100354
+ },
+ {
+  "name": "Motilal Oswal Flexi Cap Fund",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "Growth",
+  "aum": 9690.03,
+  "cagr": 7.23,
+  "expense_ratio": 1.02,
+  "sebi_risk": "Very High",
+  "id": 129046
+ },
+ {
+  "name": "UTI Mastershare",
+  "sub_category": "Large Cap Fund",
+  "plan": "IDCW",
+  "aum": 9673.85,
+  "cagr": 15.22,
+  "expense_ratio": 1.12,
+  "sebi_risk": "Very High",
+  "id": 120657
+ },
+ {
+  "name": "Axis Overnight Fund",
+  "sub_category": "Overnight Fund",
+  "plan": "Growth",
+  "aum": 9563.2,
+  "cagr": 3.7800000000000002,
+  "expense_ratio": 0.06,
+  "sebi_risk": "Low",
+  "id": 146678
+ },
+ {
+  "name": "Kotak Equity Opp Fund",
+  "sub_category": "Large & Mid Cap Fund",
+  "plan": "Growth",
+  "aum": 9454.83,
+  "cagr": 17.8,
+  "expense_ratio": 0.61,
+  "sebi_risk": "Very High",
+  "id": 103234
+ },
+ {
+  "name": "HDFC TaxSaver",
+  "sub_category": "Equity Linked Savings Scheme (ELSS)",
+  "plan": "Growth",
+  "aum": 9216.02,
+  "cagr": 12.29,
+  "expense_ratio": 1.18,
+  "sebi_risk": "Very High",
+  "id": 101979
+ },
+ {
+  "name": "Kotak Overnight Fund",
+  "sub_category": "Overnight Fund",
+  "plan": "Growth",
+  "aum": 9207.47,
+  "cagr": 3.75,
+  "expense_ratio": 0.08,
+  "sebi_risk": "Low",
+  "id": 146141
+ },
+ {
+  "name": "DSP Liquidity Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 9202.25,
+  "cagr": 4.26,
+  "expense_ratio": 0.15,
+  "sebi_risk": "Moderate",
+  "id": 103347
+ },
+ {
+  "name": "IDFC Cash Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Growth",
+  "aum": 9143.8,
+  "cagr": 4.15,
+  "expense_ratio": 0.12,
+  "sebi_risk": "Moderately Low",
+  "id": 118364
+ },
+ {
+  "name": "Nippon India Low Duration Fund",
+  "sub_category": "Low Duration Fund",
+  "plan": "Growth",
+  "aum": 9118.53,
+  "cagr": 6,
+  "expense_ratio": 0.36,
+  "sebi_risk": "Moderate",
+  "id": 111753
+ },
+ {
+  "name": "Axis Small Cap Fund",
+  "sub_category": "Small Cap Fund",
+  "plan": "Growth",
+  "aum": 9052.05,
+  "cagr": 29.06,
+  "expense_ratio": 0.35,
+  "sebi_risk": "Very High",
+  "id": 125354
+ },
+ {
+  "name": "SBI Multicap Fund",
+  "sub_category": "Multi Cap Fund",
+  "plan": "Growth",
+  "aum": 8986.65,
+  "cagr": "-",
+  "expense_ratio": "-",
+  "sebi_risk": "Very High",
+  "id": 149882
+ },
+ {
+  "name": "HDFC Credit Risk Debt Fund",
+  "sub_category": "Credit Risk Fund",
+  "plan": "Growth",
+  "aum": 8925.4,
+  "cagr": 8.46,
+  "expense_ratio": 0.85,
+  "sebi_risk": "Moderately High",
+  "id": 128053
+ },
+ {
+  "name": "DSP Small Cap Fund",
+  "sub_category": "Small Cap Fund",
+  "plan": "Growth",
+  "aum": 8848.57,
+  "cagr": 25.78,
+  "expense_ratio": 0.97,
+  "sebi_risk": "Very High",
+  "id": 105989
+ },
+ {
+  "name": "Invesco India Contra Fund",
+  "sub_category": "Contra Fund",
+  "plan": "Growth",
+  "aum": 8725.8,
+  "cagr": 16.3,
+  "expense_ratio": 0.57,
+  "sebi_risk": "Very High",
+  "id": 105460
+ },
+ {
+  "name": "SBI Liquid Fund(FN-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 58511.23,
+  "cagr": 2.54,
+  "expense_ratio": 0.18,
+  "sebi_risk": "Moderate",
+  "id": 105282
+ },
+ {
+  "name": "SBI Liquid Fund(W-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 58511.23,
+  "cagr": 2.49,
+  "expense_ratio": 0.18,
+  "sebi_risk": "Moderate",
+  "id": 105283
+ },
+ {
+  "name": "SBI Liquid Fund(DD-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 58511.23,
+  "cagr": 2.47,
+  "expense_ratio": 0.18,
+  "sebi_risk": "Moderate",
+  "id": 105281
+ },
+ {
+  "name": "SBI Equity Hybrid Fund(IDCW)",
+  "sub_category": "Aggressive Hybrid Fund",
+  "plan": "IDCW",
+  "aum": 50932.81,
+  "cagr": 13.11,
+  "expense_ratio": 0.84,
+  "sebi_risk": "Very High",
+  "id": 119604
+ },
+ {
+  "name": "HDFC Liquid Fund(M-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 46613.9,
+  "cagr": -0.03,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderately Low",
+  "id": 119090
+ },
+ {
+  "name": "HDFC Liquid Fund(DD-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 46613.9,
+  "cagr": "-",
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderately Low",
+  "id": 119089
+ },
+ {
+  "name": "HDFC Liquid Fund(W-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 46613.9,
+  "cagr": -0.02,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderately Low",
+  "id": 100874
+ },
+ {
+  "name": "HDFC Balanced Advantage Fund(IDCW)",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "IDCW",
+  "aum": 43950.49,
+  "cagr": 1.43,
+  "expense_ratio": 0.97,
+  "sebi_risk": "Very High",
+  "id": 100120
+ },
+ {
+  "name": "HDFC Balanced Advantage Fund(IDCW-Reinv)",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "IDCW",
+  "aum": 43950.49,
+  "cagr": 1.24,
+  "expense_ratio": 0.97,
+  "sebi_risk": "Very High",
+  "id": 118969
+ },
+ {
+  "name": "ICICI Pru Liquid Fund(IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 39901.99,
+  "cagr": 1.44,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 103343
+ },
+ {
+  "name": "ICICI Pru Liquid Fund(H-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 39901.99,
+  "cagr": -0.17,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 104308
+ },
+ {
+  "name": "ICICI Pru Liquid Fund(A-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 39901.99,
+  "cagr": -0.81,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 112119
+ },
+ {
+  "name": "ICICI Pru Liquid Fund(Q-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 39901.99,
+  "cagr": -0.17,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 120196
+ },
+ {
+  "name": "ICICI Pru Liquid Fund(M-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 39901.99,
+  "cagr": -0.05,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 120189
+ },
+ {
+  "name": "ICICI Pru Liquid Fund(W-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 39901.99,
+  "cagr": -0.02,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 120190
+ },
+ {
+  "name": "ICICI Pru Liquid Fund(DD-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 39901.99,
+  "cagr": "-",
+  "expense_ratio": 0.2,
+  "sebi_risk": "Moderate",
+  "id": 120188
+ },
+ {
+  "name": "ICICI Pru Balanced Advantage Fund(Q-IDCW)",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "IDCW",
+  "aum": 39478.67,
+  "cagr": 8.5,
+  "expense_ratio": 1,
+  "sebi_risk": "High",
+  "id": 131450
+ },
+ {
+  "name": "ICICI Pru Balanced Advantage Fund(M-IDCW)",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "IDCW",
+  "aum": 39478.67,
+  "cagr": 7.12,
+  "expense_ratio": 1,
+  "sebi_risk": "High",
+  "id": 122168
+ },
+ {
+  "name": "ICICI Pru Balanced Advantage Fund(IDCW)",
+  "sub_category": "Balanced Advantage Fund",
+  "plan": "IDCW",
+  "aum": 39478.67,
+  "cagr": 5.48,
+  "expense_ratio": 1,
+  "sebi_risk": "High",
+  "id": 104686
+ },
+ {
+  "name": "Kotak Flexicap Fund(IDCW-Payout)",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "IDCW",
+  "aum": 36463.37,
+  "cagr": 9.1,
+  "expense_ratio": 0.64,
+  "sebi_risk": "Very High",
+  "id": 112089
+ },
+ {
+  "name": "Kotak Flexicap Fund(IDCW)",
+  "sub_category": "Flexi Cap Fund",
+  "plan": "IDCW",
+  "aum": 36463.37,
+  "cagr": 9.06,
+  "expense_ratio": 0.64,
+  "sebi_risk": "Very High",
+  "id": 120165
+ },
+ {
+  "name": "Axis Bluechip Fund(IDCW)",
+  "sub_category": "Large Cap Fund",
+  "plan": "IDCW",
+  "aum": 35702.21,
+  "cagr": 6.9399999999999995,
+  "expense_ratio": 0.47,
+  "sebi_risk": "Very High",
+  "id": 120466
+ },
+ {
+  "name": "Aditya Birla SL Liquid Fund(IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 34891.15,
+  "cagr": 4.37,
+  "expense_ratio": 0.21,
+  "sebi_risk": "Moderate",
+  "id": 100047
+ },
+ {
+  "name": "Aditya Birla SL Liquid Fund(DD-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 34891.15,
+  "cagr": "-",
+  "expense_ratio": 0.21,
+  "sebi_risk": "Moderate",
+  "id": 119569
+ },
+ {
+  "name": "Aditya Birla SL Liquid Fund(W-IDCW)",
+  "sub_category": "Liquid Fund",
+  "plan": "IDCW",
+  "aum": 34891.15,
+  "cagr": 0.01,
+  "expense_ratio": 0.21,
+  "sebi_risk": "Moderate",
+  "id": 100051
+ },
+ {
+  "name": "SBI BlueChip Fund(IDCW-Payout)",
+  "sub_category": "Large Cap Fund",
+  "plan": "IDCW",
+  "aum": 31933.78,
+  "cagr": 14.56,
+  "expense_ratio": 0.94,
+  "sebi_risk": "Very High",
+  "id": 119585
+ },
+ {
+  "name": "Nippon India Small Cap Fund",
+  "sub_category": "Small Cap Fund",
+  "plan": "Bonus",
+  "aum": 19768.28,
+  "cagr": 27.3,
+  "expense_ratio": 0.28,
+  "sebi_risk": "Very High",
+  "id": 118777
+ },
+ {
+  "name": "Nippon India Growth Fund",
+  "sub_category": "Mid Cap Fund",
+  "plan": "Bonus",
+  "aum": 12178.26,
+  "cagr": 20.9,
+  "expense_ratio": 0.41,
+  "sebi_risk": "Very High",
+  "id": 100388
+ },
+ {
+  "name": "Nippon India Multi Cap Fund",
+  "sub_category": "Multi Cap Fund",
+  "plan": "Bonus",
+  "aum": 12157.2,
+  "cagr": 14.67,
+  "expense_ratio": 0.81,
+  "sebi_risk": "Very High",
+  "id": 101162
+ },
+ {
+  "name": "Nippon India Large Cap Fund",
+  "sub_category": "Large Cap Fund",
+  "plan": "Bonus",
+  "aum": 11069.44,
+  "cagr": 12.33,
+  "expense_ratio": 0.23,
+  "sebi_risk": "Very High",
+  "id": 106240
+ },
+ {
+  "name": "Nippon India Low Duration Fund",
+  "sub_category": "Low Duration Fund",
+  "plan": "Bonus",
+  "aum": 9118.53,
+  "cagr": 6,
+  "expense_ratio": 0.36,
+  "sebi_risk": "Moderate",
+  "id": 111743
+ },
+ {
+  "name": "Nippon India Pharma Fund",
+  "sub_category": "Sectoral Fund - Pharma & Health Care",
+  "plan": "Bonus",
+  "aum": 4851.32,
+  "cagr": 23.05,
+  "expense_ratio": 0.88,
+  "sebi_risk": "Very High",
+  "id": 102432
+ },
+ {
+  "name": "Nippon India Banking & PSU Debt Fund",
+  "sub_category": "Banking & PSU Fund",
+  "plan": "Bonus",
+  "aum": 4320.94,
+  "cagr": 7.88,
+  "expense_ratio": 0.3,
+  "sebi_risk": "Moderately Low",
+  "id": 134552
+ },
+ {
+  "name": "Nippon India Banking & Financial Services Fund",
+  "sub_category": "Sectoral Fund - Banks & Financial Services",
+  "plan": "Bonus",
+  "aum": 3294.55,
+  "cagr": 7.26,
+  "expense_ratio": 0.69,
+  "sebi_risk": "Very High",
+  "id": 101863
+ },
+ {
+  "name": "Nippon India Vision Fund",
+  "sub_category": "Large & Mid Cap Fund",
+  "plan": "Bonus",
+  "aum": 3089.02,
+  "cagr": 14.55,
+  "expense_ratio": 0.74,
+  "sebi_risk": "Very High",
+  "id": 118675
+ },
+ {
+  "name": "JM Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Bonus",
+  "aum": 2463.6,
+  "cagr": 4.25,
+  "expense_ratio": 0.15,
+  "sebi_risk": "Moderately Low",
+  "id": 120409
+ },
+ {
+  "name": "Nippon India Corp Bond Fund",
+  "sub_category": "Corporate Bond Fund",
+  "plan": "Bonus",
+  "aum": 2387.35,
+  "cagr": 6.8,
+  "expense_ratio": 0.26,
+  "sebi_risk": "Moderate",
+  "id": 100859
+ },
+ {
+  "name": "Nippon India Retirement Fund-Wealth Creation",
+  "sub_category": "Solution Oriented - Retirement Fund",
+  "plan": "Bonus",
+  "aum": 2275.09,
+  "cagr": 8.2,
+  "expense_ratio": 0.31,
+  "sebi_risk": "Very High",
+  "id": 133630
+ },
+ {
+  "name": "Invesco India Treasury Advantage Fund",
+  "sub_category": "Low Duration Fund",
+  "plan": "Bonus",
+  "aum": 2116.81,
+  "cagr": 6.03,
+  "expense_ratio": 0.32,
+  "sebi_risk": "Moderate",
+  "id": 104727
+ },
+ {
+  "name": "Nippon India Power & Infra Fund",
+  "sub_category": "Sectoral Fund - Energy & Power",
+  "plan": "Bonus",
+  "aum": 1695.57,
+  "cagr": 15.35,
+  "expense_ratio": 0.54,
+  "sebi_risk": "Very High",
+  "id": 101263
+ },
+ {
+  "name": "SBI Magnum Income Fund",
+  "sub_category": "Medium to Long Duration Fund",
+  "plan": "Bonus",
+  "aum": 1651.73,
+  "cagr": 8.46,
+  "expense_ratio": 0.81,
+  "sebi_risk": "Moderately High",
+  "id": 100640
+ },
+ {
+  "name": "L&T Ultra ST Fund",
+  "sub_category": "Ultra Short Duration Fund",
+  "plan": "Bonus",
+  "aum": 1561.61,
+  "cagr": 5.14,
+  "expense_ratio": 0.23,
+  "sebi_risk": "Moderately Low",
+  "id": 129925
+ },
+ {
+  "name": "Aditya Birla SL Credit Risk Fund",
+  "sub_category": "Credit Risk Fund",
+  "plan": "Bonus",
+  "aum": 1292.59,
+  "cagr": 6.5600000000000005,
+  "expense_ratio": 1.06,
+  "sebi_risk": "Moderately High",
+  "id": 134384
+ },
+ {
+  "name": "Nippon India Gilt Securities Fund",
+  "sub_category": "Gilt - Short & Mid Term Fund",
+  "plan": "Bonus",
+  "aum": 1232.27,
+  "cagr": 7.9,
+  "expense_ratio": 0.6,
+  "sebi_risk": "Moderate",
+  "id": 133265
+ },
+ {
+  "name": "Edelweiss Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Bonus",
+  "aum": 1230.4,
+  "cagr": 4.39,
+  "expense_ratio": 0.13,
+  "sebi_risk": "Moderate",
+  "id": 126524
+ },
+ {
+  "name": "Invesco India Arbitrage Fund",
+  "sub_category": "Arbitrage Fund",
+  "plan": "Bonus",
+  "aum": 880.25,
+  "cagr": 5.08,
+  "expense_ratio": 0.39,
+  "sebi_risk": "Low",
+  "id": 122784
+ },
+ {
+  "name": "IDBI Liquid Fund",
+  "sub_category": "Liquid Fund",
+  "plan": "Bonus",
+  "aum": 875.92,
+  "cagr": 4.45,
+  "expense_ratio": 0.13,
+  "sebi_risk": "Moderate",
+  "id": 126164
+ },
+ {
+  "name": "Sundaram Banking & PSU Debt Fund",
+  "sub_category": "Banking & PSU Fund",
+  "plan": "Bonus",
+  "aum": 673.19,
+  "cagr": 5.8,
+  "expense_ratio": 0.22,
+  "sebi_risk": "Moderately Low",
+  "id": 134355
+ },
+ {
+  "name": "Nippon India Index Fund - Nifty Plan",
+  "sub_category": "Index Fund",
+  "plan": "Bonus",
+  "aum": 491.54,
+  "cagr": 13.63,
+  "expense_ratio": 0.18,
+  "sebi_risk": "Very High",
+  "id": 113297
+ },
+ {
+  "name": "Edelweiss Equity Savings Fund",
+  "sub_category": "Equity Savings",
+  "plan": "Bonus",
+  "aum": 324.47,
+  "cagr": 10.19,
+  "expense_ratio": 0.71,
+  "sebi_risk": "Moderately High",
+  "id": 140352
+ },
+ {
+  "name": "Nippon India Index Fund - Sensex Plan",
+  "sub_category": "Index Fund",
+  "plan": "Bonus",
+  "aum": 269.38,
+  "cagr": 13.99,
+  "expense_ratio": 0.15,
+  "sebi_risk": "Very High",
+  "id": 113270
+ },
+ {
+  "name": "Nippon India Japan Equity Fund",
+  "sub_category": "Thematic Fund - Global",
+  "plan": "Bonus",
+  "aum": 243.24,
+  "cagr": 5.99,
+  "expense_ratio": 0.09,
+  "sebi_risk": "Very High",
+  "id": 130858
+ },
+ {
+  "name": "Nippon India Income Fund",
+  "sub_category": "Medium to Long Duration Fund",
+  "plan": "Bonus",
+  "aum": 228.52,
+  "cagr": 7.64,
+  "expense_ratio": 0.5,
+  "sebi_risk": "Moderately Low",
+  "id": 118679
+ },
+ {
+  "name": "Nippon India Retirement Fund-Income Generation",
+  "sub_category": "Solution Oriented - Retirement Fund",
+  "plan": "Bonus",
+  "aum": 212.9,
+  "cagr": 7.17,
+  "expense_ratio": 0.07,
+  "sebi_risk": "Moderately High",
+  "id": 118679
+ },
+ {
+  "name": "Nippon India Strategic Debt Fund",
+  "sub_category": "Medium Duration Fund",
+  "plan": "Bonus",
+  "aum": 210.7,
+  "cagr": -3.77,
+  "expense_ratio": 1.2,
+  "sebi_risk": "High",
+  "id": 130051
+ },
+ {
+  "name": "Nippon India Equity Savings Fund",
+  "sub_category": "Equity Savings",
+  "plan": "Bonus",
+  "aum": 199.25,
+  "cagr": 0.21,
+  "expense_ratio": 1.75,
+  "sebi_risk": "Moderate",
+  "id": 134602
+ },
+ {
+  "name": "Nippon India Consumption Fund",
+  "sub_category": "Sectoral Fund - Consumption",
+  "plan": "Bonus",
+  "aum": 197.96,
+  "cagr": 20.92,
+  "expense_ratio": 0.95,
+  "sebi_risk": "Very High",
+  "id": 118722
+ },
+ {
+  "name": "BOI AXA Large & Mid Cap Equity Fund",
+  "sub_category": "Large & Mid Cap Fund",
+  "plan": "Bonus",
+  "aum": 195.65,
+  "cagr": 16.64,
+  "expense_ratio": 1.45,
+  "sebi_risk": "Very High",
+  "id": 119300
+ },
+ {
+  "name": "BOI AXA Ultra Short Duration Fund",
+  "sub_category": "Ultra Short Duration Fund",
+  "plan": "Bonus",
+  "aum": 167.71,
+  "cagr": 4.84,
+  "expense_ratio": 0.44,
+  "sebi_risk": "Moderately Low",
+  "id": 126390
+ },
+ {
+  "name": "JM Low Duration Fund",
+  "sub_category": "Low Duration Fund",
+  "plan": "Bonus",
+  "aum": 161.23,
+  "cagr": 4.4,
+  "expense_ratio": 0.25,
+  "sebi_risk": "Moderately Low",
+  "id": 143610
+ },
+ {
+  "name": "Quant Large & Mid Cap Fund",
+  "sub_category": "Large & Mid Cap Fund",
+  "plan": "Bonus",
+  "aum": 111.15,
+  "cagr": 22.37,
+  "expense_ratio": 0.56,
+  "sebi_risk": "Very High",
+  "id": 120824
+ },
+ {
+  "name": "Taurus Ethical Fund",
+  "sub_category": "Index Fund",
+  "plan": "Bonus",
+  "aum": 77.74,
+  "cagr": 17.21,
+  "expense_ratio": 1.8,
+  "sebi_risk": "Very High",
+  "id": 111903
+ },
+ {
+  "name": "JM Dynamic Bond Fund",
+  "sub_category": "Dynamic Bond Fund",
+  "plan": "Bonus",
+  "aum": 61.43,
+  "cagr": 5.58,
+  "expense_ratio": 0.58,
+  "sebi_risk": "Moderately Low",
+  "id": 122315
+ },
+ {
+  "name": "JM Arbitrage Fund",
+  "sub_category": "Arbitrage Fund",
+  "plan": "Bonus",
+  "aum": 51.56,
+  "cagr": 3.7,
+  "expense_ratio": 0.32,
+  "sebi_risk": "Low",
+  "id": 130603
+ },
+ {
+  "name": "Nippon India Quant Fund",
+  "sub_category": "Thematic Fund",
+  "plan": "Bonus",
+  "aum": 33.11,
+  "cagr": 14.36,
+  "expense_ratio": 0.2,
+  "sebi_risk": "Very High",
+  "id": 108258
+ },
+ {
+  "name": "JM Medium to Long Duration Fund",
+  "sub_category": "Medium to Long Duration Fund",
+  "plan": "Bonus",
+  "aum": 21.58,
+  "cagr": 0.92,
+  "expense_ratio": 0.48,
+  "sebi_risk": "Moderate",
+  "id": 101181
+ },
+ {
+  "name": "JM Equity Hybrid Fund",
+  "sub_category": "Aggressive Hybrid Fund",
+  "plan": "Bonus",
+  "aum": 10.41,
+  "cagr": 12.35,
+  "expense_ratio": 1.78,
+  "sebi_risk": "Very High",
+  "id": 101181
+ },
+ {
+  "name": "JM Equity Hybrid Fund",
+  "sub_category": "Aggressive Hybrid Fund",
+  "plan": "Bonus",
+  "aum": 10.41,
+  "cagr": 12.35,
+  "expense_ratio": 1.78,
+  "sebi_risk": "Very High",
+  "id": 133401
+ },
+ {
+  "name": "JM Equity Hybrid Fund",
+  "sub_category": "Aggressive Hybrid Fund",
+  "plan": "Bonus",
+  "aum": 10.41,
+  "cagr": 12.34,
+  "expense_ratio": 1.78,
+  "sebi_risk": "Very High",
+  "id": 130904
+ }
+]
